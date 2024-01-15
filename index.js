@@ -30,9 +30,6 @@ else {
 }
 
 
-// document.querySelector(".roll2").addEventListener("click",function(){
-
-
 function rollDice2(){ 
   var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
 
